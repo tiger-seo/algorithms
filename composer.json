@@ -10,6 +10,7 @@
     ],
     "minimum-stability": "stable",
     "require": {
+        "php": ">=5.4.16",
         "phpunit/phpunit": "3.7.*"
     },
     "config": {
