@@ -1,0 +1,23 @@
+{
+    "name": "tiger-seo/algorithms",
+    "description": "Implementation of different algorithms",
+    "license": "GPLv3",
+    "authors": [
+        {
+            "name": "tiger-seo",
+            "email": "tiger.seo@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "phpunit/phpunit": "3.7.*"
+    },
+    "config": {
+        "bin-dir": "bin"
+    },
+    "autoload": {
+        "psr-0": {
+            "": "src/"
+        }
+    }
+}
