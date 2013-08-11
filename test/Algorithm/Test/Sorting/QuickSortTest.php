@@ -3,9 +3,9 @@
  * @author tiger
  */
 
-namespace Algorithm\Test;
+namespace Algorithm\Test\Sorting;
 
-use Algorithm\QuickSort\QuickSort;
+use Algorithm\Sorting\QuickSort;
 
 class QuickSortTest extends \PHPUnit_Framework_TestCase
 {

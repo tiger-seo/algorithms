@@ -3,7 +3,7 @@
  * @author tiger
  */
 
-namespace Algorithm\QuickSort;
+namespace Algorithm\Sorting;
 
 class QuickSort
 {
