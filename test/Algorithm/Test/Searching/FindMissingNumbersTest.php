@@ -3,9 +3,9 @@
  * @author tiger
  */
 
-namespace Algorithm\Test;
+namespace Algorithm\Test\Searching;
 
-use Algorithm\FindMissingNumbers\FindMissingNumbers;
+use Algorithm\Searching\FindMissingNumbers;
 
 class FindMissingNumbersTest extends \PHPUnit_Framework_TestCase
 {

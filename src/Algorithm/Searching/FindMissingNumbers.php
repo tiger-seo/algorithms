@@ -3,7 +3,7 @@
  * @author tiger
  */
 
-namespace Algorithm\FindMissingNumbers;
+namespace Algorithm\Searching;
 
 class FindMissingNumbers
 {
