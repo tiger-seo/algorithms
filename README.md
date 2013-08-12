@@ -4,7 +4,7 @@ algorithms
 Common algorithms implemented for learning purposes
 
 ### Sorting
-- Bubble sort
+- <del>Bubble sort</del>
 - Selection sort
 - Insertion sort
 - Shell sort
