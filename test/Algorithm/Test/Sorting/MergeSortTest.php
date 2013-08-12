@@ -9,12 +9,12 @@ use Algorithm\Sorting\MergeSort;
 
 class MergeSortTest extends \PHPUnit_Framework_TestCase
 {
-	/**
-	 * @var MergeSort
-	 */
-	protected $mergeSort;
+    /**
+     * @var MergeSort
+     */
+    protected $mergeSort;
 
-	protected function setUp()
+    protected function setUp()
     {
         $this->mergeSort = new MergeSort();
     }
@@ -22,14 +22,14 @@ class MergeSortTest extends \PHPUnit_Framework_TestCase
     public function testEmptyArray()
     {
         $expected = [];
-        $actual = $this->mergeSort->sort([]);
+        $actual   = $this->mergeSort->sort([]);
         $this->assertEquals($expected, $actual);
     }
 
     public function testOneElementArray()
     {
         $expected = [1];
-        $actual = $this->mergeSort->sort([1]);
+        $actual   = $this->mergeSort->sort([1]);
         $this->assertEquals($expected, $actual);
     }
 
