@@ -17,3 +17,6 @@ Common algorithms implemented for learning purposes
 - <del>[Binary search](http://en.wikipedia.org/wiki/Binary_search)</del>
 - <del>Finding a missing numbers in a sequence</del>
 - [Knuth-Morris-Pratt](http://en.wikipedia.org/wiki/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm)
+
+### Prime-generating
+- <del>[Sieve of Eratosthenes](http://en.wikipedia.org/wiki/Sieve_of_Eratosthenes)</del>
