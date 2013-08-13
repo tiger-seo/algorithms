@@ -20,3 +20,4 @@ Common algorithms implemented for learning purposes
 
 ### Prime-generating
 - <del>[Sieve of Eratosthenes](http://en.wikipedia.org/wiki/Sieve_of_Eratosthenes)</del>
+- [Sieve of Atkin](http://en.wikipedia.org/wiki/Sieve_of_Atkin)
