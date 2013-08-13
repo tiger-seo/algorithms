@@ -14,11 +14,13 @@ class SieveOfEratosthenes
         $i = 2;
         while ($i < $n) {
             $j = $i + $i;
-            while ($j <= $n) {
-                if ($j % $i === 0) {
-                    $numbers[$j] = false;
+            if ($numbers[$i]) {
+                while ($j <= $n) {
+                    if ($j % $i === 0) {
+                        $numbers[$j] = false;
+                    }
+                    $j += $i;
                 }
-                $j += $i;
             }
             $i++;
         }
