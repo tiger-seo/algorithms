@@ -25,6 +25,9 @@ class SieveOfEratosthenes
             $i++;
         }
 
+        // one is not a prime number
+        $numbers[1] = false;
+
         return array_keys(array_filter($numbers));
     }
 }
