@@ -6,7 +6,7 @@ Common algorithms implemented for learning purposes
 ### Sorting
 - <del>[Bubble sort](http://en.wikipedia.org/wiki/Bubble_sort)</del>
 - <del>[Selection sort](http://en.wikipedia.org/wiki/Selection_sort)</del>
-- [Insertion sort](http://en.wikipedia.org/wiki/Insertion_sort)
+- <del>[Insertion sort](http://en.wikipedia.org/wiki/Insertion_sort)</del>
 - [Shellsort](http://en.wikipedia.org/wiki/Shellsort)
 - [Comb sort](http://en.wikipedia.org/wiki/Comb_sort)
 - <del>[Merge sort](http://en.wikipedia.org/wiki/Merge_sort)</del>
