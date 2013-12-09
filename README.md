@@ -3,7 +3,7 @@ algorithms
 
 Common algorithms implemented for learning purposes
 
-### Sorting
+### Sort
 - <del>[Bubble sort](http://en.wikipedia.org/wiki/Bubble_sort)</del>
 - <del>[Selection sort](http://en.wikipedia.org/wiki/Selection_sort)</del>
 - <del>[Insertion sort](http://en.wikipedia.org/wiki/Insertion_sort)</del>
@@ -18,6 +18,17 @@ Common algorithms implemented for learning purposes
 - <del>Finding a missing numbers in a sequence</del>
 - [Knuth-Morris-Pratt](http://en.wikipedia.org/wiki/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm)
 
-### Prime-generating
+### Prime-generate
 - <del>[Sieve of Eratosthenes](http://en.wikipedia.org/wiki/Sieve_of_Eratosthenes)</del>
 - [Sieve of Atkin](http://en.wikipedia.org/wiki/Sieve_of_Atkin)
+
+### Queue
+- Binary Heap
+
+### Graph theory
+#### Undirected graph
+- <del>Depth-first search<del>
+- Breadth-first search
+#### Directed graph
+- Topological sort
+- Minimum spanning tree
