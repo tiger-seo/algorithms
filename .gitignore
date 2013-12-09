@@ -1,2 +1,4 @@
-vendor
+/bin/
+!/bin/.gitkeep
+/vendor/
 .idea/
